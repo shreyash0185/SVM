@@ -1,0 +1,4 @@
+3: https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/
+4: https://github.com/hellotinah/youtube_sentiment_analysis/blob/main/comments_full_analysis.ipynb
+6: https://github.com/miladfa7/Social-Network-Analysis-in-Python/blob/master/Social-Network-Analysis-in-Python.ipynb
+9: https://valueml.com/sentiment-analysis-using-bert-in-python/
