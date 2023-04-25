@@ -1,0 +1,2 @@
+https://www.kaggle.com/code/paoloripamonti/twitter-sentiment-analysis/notebook
+https://www.kaggle.com/code/adepvenugopal/sentiment-analysis-of-youtube-comments/notebook
